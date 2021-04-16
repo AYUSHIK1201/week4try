@@ -1,0 +1,16 @@
+.title{
+  background: #ffc1cc;
+  font-family: aerial, helvetica,sans-serif;
+  font-style: italic;
+  font-weight: bold;
+  font-size:60px;
+  text-align: center;
+}
+.detail{
+	  background: #20b2aa;
+  font-family: aerial, helvetica,sans-serif;
+  font-style: italic;
+  font-weight: bold;
+  font-size:20px;
+  text-align: center;
+}
